@@ -2,4 +2,6 @@
 
 # I cloned you
 
-# Made some Changes
+# Made some Change
+
+# Cloned using Fetch and Merge
