@@ -10,3 +10,6 @@
 
 # Cloned using Fetch and Merge v1.3
 
+# Cloned using Fetch and Merge v1.4 
+## and setting the upstream to origin
+
